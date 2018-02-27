@@ -1,0 +1,3 @@
+-- Refacter JsonController to reduce repeated calls
+   > time functions and task functions are doing the same thing basically
+-- Refactor the two json files so that calls are made to only one?
